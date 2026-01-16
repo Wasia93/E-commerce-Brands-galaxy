@@ -12,7 +12,7 @@ export default function Footer() {
               Brands Galaxy
             </h3>
             <p className="text-gray-400 text-sm">
-              Premium luxury cosmetics and skincare from the world's finest brands.
+              Premium luxury cosmetics and skincare from the world&apos;s finest brands.
             </p>
           </div>
 

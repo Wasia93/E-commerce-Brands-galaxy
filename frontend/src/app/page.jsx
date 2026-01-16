@@ -31,7 +31,7 @@ export default function HomePage() {
               <span className="block text-white mt-2">Refined</span>
             </h1>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Discover the world's most prestigious cosmetics and skincare brands, curated for the discerning individual.
+              Discover the world&apos;s most prestigious cosmetics and skincare brands, curated for the discerning individual.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/products">

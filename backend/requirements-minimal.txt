@@ -1,0 +1,22 @@
+# FastAPI and Web Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database (SQLite for development)
+sqlalchemy
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Validation and Settings
+pydantic
+pydantic-settings
+email-validator
+
+# Payment Processing
+stripe
+
+# Environment Variables
+python-dotenv
